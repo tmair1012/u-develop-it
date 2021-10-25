@@ -1,0 +1,30 @@
+{
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmair1012/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmair1012/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/tmair1012/u-develop-it#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2",
+    "npm": "^8.1.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
